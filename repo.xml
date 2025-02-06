@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+  <description>test data for tuttle</description>
+  <author>TEI Publisher Project Team</author>
+  <website>https://github.com/eeditiones/tuttle-sample-data</website>
+  <status>stable</status>
+  <license>GPL-3.0</license>
+  <type>application</type>
+  <target>tuttle-sample-data</target>
+</meta>
